@@ -31,7 +31,7 @@ for number in range(10000):
     pyautogui.click(x=582, y=842, duration =240.33)
 
     #click on skills tab again
-    pyautogui.click(x=582, y=842, duration =5.33)
+    pyautogui.click(x=582, y=842, duration =240.33)
 
     #click on special attack
     pyautogui.click(x=623, y=157, duration =35.33)
